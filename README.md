@@ -13,8 +13,8 @@ Optimistic Ethereum Documentation
 https://community.optimism.io/docs/
 
 
+\
 Arbitrum
-
 
 Arbitrum Developer Quickstart
 https://developer.offchainlabs.com/docs/developer_quickstart
