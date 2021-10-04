@@ -19,6 +19,9 @@ Arbitrum
 Arbitrum Developer Quickstart
 https://developer.offchainlabs.com/docs/developer_quickstart
 
+Arbitrum in under 10 minutes
+https://tracer.finance/radar/arbitrum-in-under-10/
+
 \
 Medium
 
